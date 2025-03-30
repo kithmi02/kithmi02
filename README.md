@@ -14,7 +14,7 @@
 <br><br>
 - 🔭 I’m currently working on **Weather-Induced Challenges in Sri Lanka’s Plantation Industry: An Analysis of Key Crop Vulnerability**
 
-- 🌱 I’m currently learning **Machine learning and NLP**
+- 🌱 I’m currently learning **Big Data Analytics**
 
 - 👯 I’m looking to collaborate on **projects involving machine learning, data analytics, or any data-driven solutions!**
 
